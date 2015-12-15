@@ -62,5 +62,3 @@ Aus dieser Notwendigkeit entstehen in den frühen 70er Jahren die ersten compute
 1. reversibility – Umkehrbarkeit
 2. concurrency – Gleichzeitigkeit
 3. annotation – Kommentare / Anmerkung
-
-Natürlich stand die Versionskontrolle in den Vergangenen 10 Jahren nicht still.
