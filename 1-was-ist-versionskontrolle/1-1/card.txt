@@ -1,4 +1,4 @@
-Title: Das Ding ist, ist nicht.
+Title: Was könnte Versionskontrolle sein?
 
 ----
 
@@ -15,3 +15,15 @@ Card-text: »Es Ding ist, ist nicht.« Das schrieb gut zweihundertfünfzig Jahre
 ----
 
 Autoid: dd594340d0305c135c8eb7809aab0ead
+
+----
+
+Number: 
+
+----
+
+Date: 
+
+----
+
+Text: Da ist hier die Frage!
