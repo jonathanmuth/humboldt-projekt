@@ -1,0 +1,17 @@
+Title: Das Ding könnte es sein!
+
+----
+
+Autoid: a63823e90343d270fcef8564941a7325
+
+----
+
+Card-index: 
+
+----
+
+Card-date: 
+
+----
+
+Card-text: (card: Kontrolle autoid: 747de5a8d26fab53b7728f51ed0b53fc)

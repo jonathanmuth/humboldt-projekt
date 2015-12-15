@@ -1,0 +1,66 @@
+Title: Was ist Versionskontrolle?
+
+----
+
+Index: 1
+
+----
+
+Date: 
+
+----
+
+Card-index: 1
+
+----
+
+Card-date: 2015-12-01
+
+----
+
+Card-text: 
+
+Es gibt. Es gibt eine Schaltung – ein einfaches Relais. Das Relais: es gibt eine Null, es gibt eines Eins. Es ist das Jahr 1936. In Cambridge, Mass., sitzt ein Mann an einem Tisch in einem Büro des Massachusetts Insitute for Technology und denk über das Wesen dieser Schaltung nach. Der Mann heißt Claude Elwood Shannon. Shannon denk: Zwischen den zwei Polen einer Schaltung herrscht entweder unendliche Impedanz oder null Impedanz.[1. This is a footnote.] Eine zeitabhängige Variable X heiße die »hinderance« einer zweipoligen Schaltung a-b. 0 bezeichnet die »hinderance« eines geschlossenen Schaltkreises und 1 die »hinderance« eines offenen Schaltkreises. Die Variable X kann also als Funktion der Zeit genau zwei Zustände annehmen. »At any given time either X = 0 or X = 1.«
+
+(image: luhmann.jpg)
+
+»At any given time«: Wer oder was aber git die Zeit, die gegeben ist? »Die Zeit ist nicht. Es gibt die Zeit. Das Geben, das Zeit gibt, bestimmt sich aus der verweigernd-vorenthaltenden Nähe« Verweigern, vorenthalten sind Verben, die nah an den Wortsinn von »hinderance« – Hinderung, den Zugang verweigern – heranreichen. Die gegebene Zeit, in der X entweder gleich null oder gleich eins ist, ist eine diskrete Zeit, eine Zeit, die quantisierten Schritten[2. This is another footnote] abläuft, sonst könnten wir X irgendwann auch zischen 0 und 1 antreffen. Aber zwischen 0 und 1 *gibt* es keine Zeit. Deswegen gibt es die Welt des Symbolischen. Es ist der Entzug des Realen, durch den es das Symbolische gibt. Es ist die *hinderance*, die die diskretisierte Zeit gibt, die gegeben ist und in der die *hinderance* entweder null ist oder eins.
+
+----
+
+Autoid: becae74fc148e5ed3093004aea4cc209
+
+----
+
+Card-hash: 
+
+----
+
+Cardhash: ac1b5f538232af7a394398c98888aaf0
+
+----
+
+Number: 1
+
+----
+
+Text: 
+
+Gegen Ende der 60er Jahre stehen viele amerikanische Technologieunternehmen vor einem Problem: Der Funktionsumfang, der von ihnen angebotenen Software, entwickelt sich exponentiell zu ihrer Fähigkeit, mit der immer größer werdenden Komplexität des Quellcodes eben dieser Programme umzugehen.
+
+Entwickler schreiben nicht mehr im Alleingang ganze Anwendungen, sondern beschäftigen sich mit immer kleineren Teilen eines großen Ganzen. Daraus folgt auch, dass viele Programmierer aus den unterschiedlichsten Abteilungen zur gleichen Zeit an ein und demselben Programm arbeiten, was die Zusammenarbeit zusätzlich erschwert.
+
+Um in dieser Situation die Anschlussfähigkeit der Arbeit der Entwickler und des von ihnen geschriebenen Quellcodes zu gewährleisten, braucht es also ein System, das es möglich macht, Änderungen im Code so genau wie möglich zu dokumentieren.
+
+Aus dieser Notwendigkeit entstehen in den frühen 70er Jahren die ersten computergestützten Versionskontrollsysteme. Eines von ihnen wird von Marc Rochkind in den Bell Labs entwickelt und trägt den unmissverständlichen Namen *Source Code Control System* kurz SCCS. Es gilt als Urahne aller heute verwendeten Systeme. Nicht zuletzt, weil Rochkind vier Hauptfunktionen beschreibt und implementiert, die auch heute noch den Kern eines jeden Versionskontrollsystems ausmachen: 
+
+1. *Storage*: Alle Versionen eines Programms werden an einem Ort gespeichert und sind auf Abruf verfügbar.
+2. *Protection*: Entwickler haben nur auf die Module Zugriff an denen sie tatsächlich arbeiten.
+3. *Identification*: Das System versieht jede Änderung mit einem Zeitstempel und einer eindeutigen Versionsnummer 
+4. *Documentation*: Das System macht es nachvollziehbar wer wann wo welche Änderung warum vorgenommen hat.
+
+1. reversibility – Umkehrbarkeit
+2. concurrency – Gleichzeitigkeit
+3. annotation – Kommentare / Anmerkung
+
+Natürlich stand die Versionskontrolle in den Vergangenen 10 Jahren nicht still.

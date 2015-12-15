@@ -1,0 +1,21 @@
+Title: Kontrolle ist besser.
+
+----
+
+Card-index: 2
+
+----
+
+Card-date: 2015-12-01
+
+----
+
+Card-text: 
+
+Es gibt. Es gibt eine Schaltung – ein einfaches Relais. Das Relais: es gibt eine Null, es gibt eines Eins. Eist das Jahr 1936. In Cambridge, Mass., sitzt ein Mann an einem Tisch in einem Büro des Massachusetts Insitute for Technology und denk über das Wesen dieser Schaltung nach. Der Mann heißt Claude Elwood Shannon. Shannon denk: Zwischen den zwei Polen einer Schaltung herrscht entweder unendliche Impedanz oder null Impedanz. Eine zeitabhängige Variable X heiße die »hinderance« einer zweipoligen Schaltung a-b. 0 bezeichnet die »hinderance« eines geschlossenen Schaltkreises und 1 die »hinderance« eines offenen Schaltkreises. Die Variable X kann also als Funktion der Zeit genau zwei Zustände annehmen. »At any given time either X = 0 or X = 1.«
+
+»At any given time«: Wer oder was aber git die Zeit, die gegeben ist? »Die Zeit ist nicht. Es gibt die Zeit. Das Geben, das Zeit gibt, bestimmt sich aus der verweigernd-vorenthaltenden Nähe« Verweigern, vorenthalten sind Verben, die nah an den Wortsinn von »hinderance« – Hinderung, den Zugang verweigern – heranreichen. Die gegebene Zeit, in der X entweder gleich null oder gleich eins ist, ist eine diskrete Zeit, eine Zeit, die quantisierten Schritten abläuft, sonst könnten wir X irgendwann auch zischen 0 und 1 antreffen. Aber zwischen 0 und 1 *gibt* es keine Zeit. Deswegen gibt es die Welt des Symbolischen. Es ist der Entzug des Realen, durch den es das Symbolische gibt. Es ist die *hinderance*, die die diskretisierte Zeit gibt, die gegeben ist und in der die *hinderance* entweder null ist oder eins.
+
+----
+
+Autoid: 747de5a8d26fab53b7728f51ed0b53fc

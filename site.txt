@@ -1,0 +1,17 @@
+Title: Zettelkasten
+
+----
+
+Author: Jonathan Muth 
+
+----
+
+Description: This is Kirby's inofficial Gulp Starterkit.
+
+----
+
+Keywords: Kirby, CMS, file-based
+
+----
+
+Copyright: © 2009-(date: Year)

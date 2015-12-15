@@ -1,0 +1,17 @@
+Title: Das Ding ist, ist nicht.
+
+----
+
+Card-index: 1/1
+
+----
+
+Card-date: 2015-12-01
+
+----
+
+Card-text: »Es Ding ist, ist nicht.« Das schrieb gut zweihundertfünfzig Jahre vor Shannon Gottfried Wilhelm Leibniz an den Rand seiner Notizen über das Rechnen mit null und eins. Leibnitz kannte keine Schau vor der Ontologisierung symbolischer Notatio. Das Sein des Seienden ist viertuelle Differenz von An- und Abwesenheit, die ursprünglich einige Versammlung von Gabe und Entzug, die Verwahrung der Zwiefalt von null und eins. (card: Versionierung autoid: becae74fc148e5ed3093004aea4cc209)
+
+----
+
+Autoid: dd594340d0305c135c8eb7809aab0ead
